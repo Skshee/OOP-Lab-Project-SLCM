@@ -24,7 +24,11 @@ Update student attendance 📅
 Update marks for each subject ✍️
 
 👨‍💻 Technologies & Concepts Used
+
 ✅ Java OOPs (Encapsulation, Inheritance, Polymorphism)
+
 ✅ Interfaces & Abstract Classes for structured design
+
 ✅ ArrayLists for dynamic data storage
+
 ✅ Swings for UI
