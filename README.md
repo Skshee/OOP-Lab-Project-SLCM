@@ -1,6 +1,6 @@
 # OOP-Lab-Project-SLCM
 
-🎓 Student Life Cycle Management System
+🎓 `Student Life Cycle Management System`
 
 A Java-based Student Life Cycle Management System that allows administrators to update student marks and attendance, while students can view their academic records. This project demonstrates Object-Oriented Programming (OOP) principles along with interfaces, abstract classes, and ArrayLists for data management.
 
